@@ -23,6 +23,7 @@ div#contents {
 div#sidebar {
   width: 240px;
   float: left;
+  background-color: #e8e8e8;
 }
 
 h1 {
