@@ -35,6 +35,10 @@ h1 {
   padding-left: 30px;
 }
 
+article {
+  padding: 20px;
+}
+
 h2 {
   background-color: #f1fff0;
   color: #011200;
