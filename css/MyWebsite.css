@@ -7,7 +7,7 @@ body {
 
 header {
   width: 800px;
-  background-color: #f0f6ff;
+  background-color: #9fc6ff;
 }
 
 nav {
@@ -32,7 +32,6 @@ ul {
 }
 
 h1 {
-  background-color: #9fc6ff;
   color: #040029;
   text-align: center;
   margin: 0px;
