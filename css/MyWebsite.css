@@ -10,6 +10,16 @@ header {
   background-color: #f0f6ff;
 }
 
+nav {
+  padding: 20px;
+}
+
+div#contents {
+  background-color: #ffffff;
+  width: 560px;
+  float: right;
+}
+
 h1 {
   background-color: #f0f6ff;
   color: #040029;
