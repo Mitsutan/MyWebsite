@@ -53,6 +53,7 @@ footer {
   width: 800px;
   background-color: #1a1a1a;
   color: #f7f7f7;
+  clear: both;
 }
 
 a.white:link {
