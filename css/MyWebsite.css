@@ -19,4 +19,8 @@ color: #011200;
 footer {
 background-color: #1a1a1a;
 color: #f7f7f7;
+  a:link {
+    color: #f7f7f7;
+    text-decoration: none;
+  }
 }
