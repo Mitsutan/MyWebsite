@@ -20,6 +20,11 @@ div#contents {
   float: right;
 }
 
+div#sidebar {
+  width: 240px;
+  float: left;
+}
+
 h1 {
   background-color: #f0f6ff;
   color: #040029;
