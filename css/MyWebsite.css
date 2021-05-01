@@ -1,23 +1,27 @@
 @charset "utf-8"
 
 body {
-background-color: #f0f6ff;
-font-family: "メイリオ",sans-serif;
+  background-color: #f0f6ff;
+  font-family: "メイリオ",sans-serif;
 }
 
 h1 {
-background-color: #f0f6ff;
-color: #040029;
-text-align: center;
+  background-color: #f0f6ff;
+  color: #040029;
+  text-align: center;
 }
 
 h2 {
-background-color: #f1fff0;
-color: #011200;
+  background-color: #f1fff0;
+  color: #011200;
 }
 
 footer {
-background-color: #1a1a1a;
-color: #f7f7f7;
+  background-color: #1a1a1a;
+  color: #f7f7f7;
 }
 
+a.white:link {
+  color: #f7f7f7;
+  text-decoration: none; 
+}
