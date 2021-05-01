@@ -26,6 +26,11 @@ div#sidebar {
   background-color: #e8e8e8;
 }
 
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
 h1 {
   background-color: #f0f6ff;
   color: #040029;
@@ -45,6 +50,7 @@ h2 {
 }
 
 footer {
+  width: 800px;
   background-color: #1a1a1a;
   color: #f7f7f7;
 }
