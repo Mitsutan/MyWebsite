@@ -5,10 +5,18 @@ body {
   font-family: "メイリオ",sans-serif;
 }
 
+header {
+  width: 800px;
+  background-color: #f0f6ff;
+}
+
 h1 {
   background-color: #f0f6ff;
   color: #040029;
   text-align: center;
+  margin: 0px;
+  padding-top: 30px;
+  padding-left: 30px;
 }
 
 h2 {
@@ -29,4 +37,14 @@ a.white:link {
 a.white:visited {
   color: #d1d1d1;
   text-decoration: none;
+}
+
+#wrap {
+  width: 800px;
+  background-color: #f0f6ff;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 0px;
 }
