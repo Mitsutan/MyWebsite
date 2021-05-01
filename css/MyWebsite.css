@@ -25,3 +25,8 @@ a.white:link {
   color: #f7f7f7;
   text-decoration: none; 
 }
+
+a.white:visited {
+  color: #d1d1d1;
+  text-decoration: none;
+}
