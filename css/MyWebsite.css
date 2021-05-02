@@ -2,11 +2,6 @@
 
 
 
-header {
-  width: 800px;
-  background-color: #9fc6ff;
-  text-align: center;
-}
 
 nav {
   padding: 20px;
@@ -85,4 +80,9 @@ body {
   margin: 0px;
 }
 
+header {
+  width: 800px;
+  background-color: #9fc6ff;
+  text-align: center;
+}
 
