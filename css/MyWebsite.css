@@ -1,9 +1,22 @@
-@charset "utf-8"
+@charset "utf-8";
 
-/* navが最初と最後に二つ書かれているのは、先頭にあるやつが何故か読み込まれないので仮対策として。原因不明 */
+body {
+    background-color: #f0f6ff;
+    /* background-image: url(../photo/IMG_2394.jpeg);
+  background-size: contain; */
+    margin: 0px;
+}
+
+header {
+    width: 800px;
+    background-color: #9fc6ff;
+    background-image: url(../photo/header画像.png);
+    background-size: contain;
+    text-align: center;
+}
 
 nav {
-  padding: 20px;
+    padding: 20px;
 }
 
 p {
@@ -29,13 +42,13 @@ ul {
 }
 
 h1 {
-  color: #040029;
+  color: #ffffff;
   margin: 0px;
   padding-top: 30px;
 }
 
 header p {
-  color: #3d3d3d;
+  color: #e6e6e6;
   font-size: 0.8em;
   margin: 0px;
   padding-bottom: 10px;
@@ -83,20 +96,5 @@ a.white:visited {
   padding: 0px;
 }
 
-body {
-  background-color: #f0f6ff;
-  /* background-image: url(../photo/IMG_2394.jpeg);
-  background-size: contain; */
-  margin: 0px;
-}
 
-header {
-  width: 800px;
-  background-color: #9fc6ff;
-  text-align: center;
-}
-
-nav {
-  padding: 20px;
-}
 
