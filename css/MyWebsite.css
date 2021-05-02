@@ -4,7 +4,7 @@
 body {
   background-color: #f0f6ff;
   background-image: url(photo/IMG_3665.jpeg);
-  margin: 0px;
+  margin: 0px !important;
 }
 
 header {
