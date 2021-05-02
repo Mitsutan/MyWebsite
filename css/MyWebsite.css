@@ -1,8 +1,10 @@
 @charset "utf-8"
 
-/* aaa */
+/* navが最初と最後に二つ書かれているのは、先頭にあるやつが何故か読み込まれないので。原因不明 */
 
-
+nav {
+  padding: 20px;
+}
 
 
 div#contents {
