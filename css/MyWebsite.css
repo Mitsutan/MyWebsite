@@ -6,6 +6,9 @@ nav {
   padding: 20px;
 }
 
+p {
+  margin: 2px;
+}
 
 div#contents {
   background-color: #ffffff;
