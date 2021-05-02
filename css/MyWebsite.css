@@ -4,7 +4,7 @@
 body {
   background-color: #f0f6ff;
   background-image: url(photo/IMG_3665.jpeg);
-  margin: 0px !important;
+  margin: 0px;
 }
 
 header {
@@ -82,3 +82,11 @@ a.white:visited {
   margin-bottom: 80px;
   padding: 0px;
 }
+
+body {
+  background-color: #f0f6ff;
+  background-image: url(photo/IMG_3665.jpeg);
+  margin: 0px;
+}
+
+
