@@ -1,11 +1,6 @@
 @charset "utf-8"
 
 
-body {
-  background-color: #f0f6ff;
-  background-image: url(photo/IMG_3665.jpeg);
-  margin: 0px;
-}
 
 header {
   width: 800px;
@@ -85,7 +80,7 @@ a.white:visited {
 
 body {
   background-color: #f0f6ff;
-  background-image: url(photo/IMG_3665.jpeg);
+  background-image: url(../photo/IMG_3665.jpeg);
   margin: 0px;
 }
 
