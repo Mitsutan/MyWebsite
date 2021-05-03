@@ -28,16 +28,19 @@ video {
     height: auto;
 }
 
-div#contents {
-  background-color: #ffffff;
-  width: 560px;
-  float: right;
-}
+
 
 div#sidebar {
   width: 240px;
   float: left;
   background-color: #e8e8e8;
+}
+
+
+div#contents {
+    background-color: #ffffff;
+    width: 560px;
+    float: right;
 }
 
 ul {
@@ -67,6 +70,7 @@ h2 {
   background-color: #f1fff0;
   color: #011200;
 }
+
 
 footer {
   width: 800px;
@@ -101,5 +105,13 @@ a.white:visited {
   padding: 0px;
 }
 
+img.MyIcon {
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+}
 
+.introduction {
+    margin-left: 210px;
+}
 
