@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 body {
     background-color: #f0f6ff;
@@ -21,6 +21,11 @@ nav {
 
 p {
   margin: 2px;
+}
+
+video {
+    width: 480px;
+    height: auto;
 }
 
 div#contents {
