@@ -1,7 +1,7 @@
 ﻿$(function () {
     $(window).scroll(function () {
         var y = $(this).scrollTop();
-        $('#body').css('background-position', '0 ' + parseInt(-y / 5) + 'px');
+        $("#body").css("background-position", "0 " + parseInt(-y / 5) + "px");
 
         if ($(this).scrollTop() > $(this).height()) {
             $("#scroll_to_top").fadeIn();
