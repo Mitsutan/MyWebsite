@@ -4,7 +4,7 @@ ErrorDocument 404 /404.html
 Deny from all
 </Files>
 AuthType Basic
-AuthUserFile .htpasswd
+AuthUserFile mitsutan.github.io/MyWebsite/.htpasswd
 AuthName "Please enter your ID and password"
 Order deny,allow
 <Files ~ (index.html|bar.php)>
