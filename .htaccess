@@ -1,7 +1,12 @@
 ErrorDocument 404 /404.html
 
-AuthUserFile /.htpasswd
-AuthGroupFile /dev/null
-AuthName “Please enter your ID and password”
+<Files ~ "^\.(htaccess|htpasswd)$">
+Deny from all
+</Files>
 AuthType Basic
+AuthUserFile .htpasswd
+AuthName "Please enter your ID and password"
+Order deny,allow
+<Files ~ (index.html|bar.php)>
 require valid-user
+</Files>
